@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 30, 2020, 9:12:40 AM
+    Author     : NetTech
+*/
+.img-title{
+    width: 100%;
+    margin:0;
+    padding: 0;
+}
+.jumbotron{
+    background-color: #e4f9f5;
+}
+.img-title img{
+    width: 200px;
+}
+.img-title h1,h3,p{
+    margin-top:3%;
+    text-align: center;
+}
+.img-title h1{
+    font-weight: 700;
+}
+.img-title h2{
+    font-weight:300;
+}
+.img-title hr{
+    width: 30%;
+    color:black;
+}
+
+.navbar-custom {
+    background-color: #11999e;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #e4f9f5
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: #30e3ca;
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #e4f9f5;
+}
+
+
+
+
